@@ -299,7 +299,8 @@ h1 {
     /* font-size: 43px; */
     font-size: 47px;
     letter-spacing: 2px;
-    line-height: 40px;
+    /* line-height: 40px; */
+    line-height: 50px;
 }
 
     h1.h1, h2.h2 {
